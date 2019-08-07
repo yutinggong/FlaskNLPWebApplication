@@ -1,4 +1,4 @@
-# FlaskNLPWebApplication
+# Flask NLP Web Application
 A web application where you can do Automatic LDA Topic Modeling on the text data
 
 LDA Topic Modeling is a type of machine learning model that helps to extrac 'topics' from a collection of documents. The goal of this flask project is to develop a user interface that embeds the LDA Topic Modeling algorithms, and make it easy for even non-technical people to extract topics from any texts data.
