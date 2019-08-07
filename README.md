@@ -11,7 +11,7 @@ LDA Topic Modeling is a type of machine learning model that helps to extrac 'top
 1. Just upload a csv that contains texts, and select number of topics you want to see
 ![Upload](upload.gif)
 
-2. LDA is ran in the background and results are shown:
+2. LDA is ran in the back end and results are shown:
 
 - LDA outputs on the left side
 - Data overview on the right side
